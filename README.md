@@ -1,2 +1,2 @@
 # demo-folder
-demo-folder for exploring github
+demo-folder for exploring github.
